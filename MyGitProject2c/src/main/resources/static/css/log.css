@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body{
+  text-align: center;
+	background-image: url(
+		"https://media.istockphoto.com/id/1222143568/ja/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/%E9%9D%92%E7%A9%BA%E3%81%AE%E6%B0%B4%E5%BD%A9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88.jpg?s=612x612&w=0&k=20&c=fcbkHm_GNl47EVTLG1dha6rTKTt8zVc_R2awp_1GmZ8=");
+	    background-size:cover;                 /* 画像のサイズを指定    */
+	}
+	.box {
+margin:10px; padding:10px; border:5px solid rgb(255, 255, 255);
+width: 50%;
+height: 30%;
+margin: auto;
+  border-radius: 50px;
+}
+.box_2{
+	margin:10px; padding:10px; border:5px solid rgb(255, 255, 255);
+width: 50%;
+margin: auto;
+ border-radius: 50px;
+}
