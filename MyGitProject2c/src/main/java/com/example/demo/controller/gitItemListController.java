@@ -11,4 +11,10 @@ public class gitItemListController {
 	public String itemlist() {
 		return "gititemlist";
 	}
+	
+	@RequestMapping(path = "/gititemlist", method = RequestMethod.POST)
+	public String tenthPostUpdate() {
+
+	    return "redirect:/gititemedit";
+	}
 }
